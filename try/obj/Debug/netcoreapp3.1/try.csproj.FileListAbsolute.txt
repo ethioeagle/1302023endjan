@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C# Class\Console Projects\ConsolePractice\try\try\obj\Debug\netcoreapp3.1\try.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Class\Console Projects\ConsolePractice\try\try\obj\Debug\netcoreapp3.1\try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Class\Console Projects\ConsolePractice\try\try\obj\Debug\netcoreapp3.1\try.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Class\Console Projects\ConsolePractice\try\try\obj\Debug\netcoreapp3.1\try.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Class\Console Projects\ConsolePractice\try\try\obj\Debug\netcoreapp3.1\try.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Class\Console Projects\ConsolePractice\try\try\obj\Debug\netcoreapp3.1\try.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\C# Class\Console Projects\ConsolePractice\try\try\obj\Debug\netcoreapp3.1\try.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\C# Class\Console Projects\ConsolePractice\try\try\obj\Debug\netcoreapp3.1\try.RazorAssemblyInfo.cs
